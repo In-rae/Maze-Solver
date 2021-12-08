@@ -1,5 +1,5 @@
 This is a reupload. Additional credit to my partner Malcolm Bell, credit to Colgate University for starter code.
-#Maze-Solver
+# Maze-Solver
 
 
 A maze is a 2D grid defined in a file, such as those found in the `maze` folder. The file format is as follows:
